@@ -612,7 +612,7 @@ export const bids = [
   {
     id: 46,
     title: "ETH Me Outside",
-    imageSrc: "/img/products/ai-films/children of hurin.png",
+    imageSrc: "/img/products/ai-films/Love and Iron.png",
     alt: "item 1",
     currentBid: "1.3 ETH",
     totalLikes: 159,
@@ -638,7 +638,7 @@ export const bids = [
   {
     id: 48,
     title: "Splendid Girl",
-    imageSrc: "/img/products/ai-films/Love and Iron.png",
+    imageSrc: "/img/products/ai-films/children of hurin.png",
     alt: "item 6",
     currentBid: "4.7 ETH",
     totalLikes: 253,
