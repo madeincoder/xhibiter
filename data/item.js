@@ -59,7 +59,7 @@ export const items = [
 export const items2 = [
   {
     id: 6,
-    imageSrc: "/img/products/ai-films/Children of Hurin.png",
+    imageSrc: "/img/products/ai-films/Love and Iron.png",
 
     title: "Flourishing Cat #180",
     likes: 15,
@@ -98,7 +98,7 @@ export const items2 = [
   },
   {
     id: 8,
-    imageSrc: "/img/products/ai-films/Love and Iron.png",
+    imageSrc: "/img/products/ai-films/Children of Hurin.png",
     title: "SwagFox#133",
     likes: 160,
     creatorAvatar: "/img/avatars/creator_3.png",
