@@ -638,7 +638,7 @@ export const bids = [
   {
     id: 48,
     title: "Splendid Girl",
-    imageSrc: "/img/products/ai-films/children of hurin.png",
+    imageSrc: "/img/products/ai-films/Street fighter.png",
     alt: "item 6",
     currentBid: "4.7 ETH",
     totalLikes: 253,
