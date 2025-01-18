@@ -63,7 +63,7 @@ export const items2 = [
     title: "Love and Iron",
     likes: 15,
     creatorAvatar: "/img/avatars/creator_1.png",
-    ownerAvatar: "/img/avatars/owner_1.png",
+    ownerAvatar: "/img/avatars/owner_3.png",
     price: 8.49,
     category: "Art",
     creator: "Sussygirl",
