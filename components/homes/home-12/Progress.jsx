@@ -1,4 +1,5 @@
 "use client";
+import MetamarkComponent from "@/components/metamask/MetamarkComponent";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import Countdown from "react-countdown";
@@ -84,12 +85,17 @@ export default function Progress() {
             <p className="mb-8 text-lg text-jacarta-500 dark:text-jacarta-300">
               Discount Tier: 40%
             </p>
-            <Link
-              href={`/item/${3}`}
+            {/* <Link
+              href="https://metamask.io/"
               className="inline-block rounded-full bg-accent py-2.5 px-8 text-center text-sm font-semibold text-white shadow-accent-volume transition-all hover:bg-accent-dark"
             >
-              Metamask
-            </Link>
+              Buy Token
+            </Link> */}
+            <MetamarkComponent>
+              <div className="w-full js-wallet inline-block rounded-full bg-accent py-2.5 px-8 text-center text-sm font-semibold text-white shadow-accent-volume transition-all hover:bg-accent-dark">
+                Buy Token
+              </div>
+            </MetamarkComponent>
           </div>
           <div>
             {showTimer && (
