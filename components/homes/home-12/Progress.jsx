@@ -91,11 +91,13 @@ export default function Progress() {
             >
               Buy Token
             </Link> */}
-            <MetamarkComponent>
-              <div className="w-full js-wallet inline-block rounded-full bg-accent py-2.5 px-8 text-center text-sm font-semibold text-white shadow-accent-volume transition-all hover:bg-accent-dark">
-                Buy Token
-              </div>
-            </MetamarkComponent>
+            <div className="max-w-[160px]">
+              <MetamarkComponent>
+                <div className="w-full js-wallet inline-block rounded-full bg-accent py-2.5 px-8 text-center text-sm font-semibold text-white shadow-accent-volume transition-all hover:bg-accent-dark">
+                  Buy Token
+                </div>
+              </MetamarkComponent>
+            </div>
           </div>
           <div>
             {showTimer && (
