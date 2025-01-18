@@ -60,8 +60,7 @@ export const items2 = [
   {
     id: 6,
     imageSrc: "/img/products/ai-films/Love and Iron.png",
-
-    title: "Flourishing Cat #180",
+    title: "Love and Iron",
     likes: 15,
     creatorAvatar: "/img/avatars/creator_1.png",
     ownerAvatar: "/img/avatars/owner_1.png",
@@ -80,10 +79,10 @@ export const items2 = [
   {
     id: 7,
     imageSrc: "/img/products/ai-films/ffffffffff.png",
-    title: "Amazing NFT art",
+    title: "Battalion",
     likes: 188,
     creatorAvatar: "/img/avatars/creator_2.png",
-    ownerAvatar: "/img/avatars/owner_2.png",
+    ownerAvatar: "/img/avatars/owner_5.png",
     price: 5.9,
     category: "Art",
     creator: "Sussygirl",
@@ -99,7 +98,7 @@ export const items2 = [
   {
     id: 8,
     imageSrc: "/img/products/ai-films/Children of Hurin.png",
-    title: "SwagFox#133",
+    title: "Children of Hurin",
     likes: 160,
     creatorAvatar: "/img/avatars/creator_3.png",
     ownerAvatar: "/img/avatars/owner_3.png",
@@ -118,7 +117,7 @@ export const items2 = [
   {
     id: 9,
     imageSrc: "/img/products/ai-films/Men of the desert.png",
-    title: "Splendid Girl",
+    title: "Men of the desert",
     likes: 159,
     category: "Music",
     creatorAvatar: "/img/avatars/creator_4.png",
@@ -137,7 +136,7 @@ export const items2 = [
     id: 10,
     imageSrc:
       "/img/products/ai-films/Orange Black Bold Horror Movie Poster.png",
-    title: "Monkeyme#155",
+    title: "Orange Black Bold",
     likes: 32,
     category: "Photography",
     creatorAvatar: "/img/avatars/creator_3.png",
@@ -157,7 +156,7 @@ export const items2 = [
   {
     id: 11,
     imageSrc: "/img/products/ai-films/Pirates.png",
-    title: "Jedidia#149",
+    title: "Pirates",
     likes: 25,
     category: "Virtual World",
     creatorAvatar: "/img/avatars/creator_6.png",
@@ -180,8 +179,8 @@ export const items2 = [
     likes: 55,
     category: "Collectibles",
     creatorAvatar: "/img/avatars/creator_2.png",
-    ownerAvatar: "/img/avatars/owner_7.png",
-    title: "Artof Eve",
+    ownerAvatar: "/img/avatars/owner_9.png",
+    title: "Shadow",
     price: 0.13,
     creator: "Sussygirl",
     owner: "Sussygirl",
@@ -202,7 +201,7 @@ export const items2 = [
     category: "Domain",
     creatorAvatar: "/img/avatars/creator_8.png",
     ownerAvatar: "/img/avatars/owner_5.png",
-    title: "Asuna #1649",
+    title: "Street fighter",
     currency: "ETH",
     price: 0.8,
     creator: "Sussygirl",
@@ -611,12 +610,14 @@ export const actionItems = [
 export const bids = [
   {
     id: 46,
-    title: "ETH Me Outside",
+    title: "Love and Iron",
     imageSrc: "/img/products/ai-films/Love and Iron.png",
     alt: "item 1",
     currentBid: "1.3 ETH",
     totalLikes: 159,
     ethAmount: "1.55 ETH",
+    creatorAvatar: "/img/avatars/creator_1.png",
+    ownerAvatar: "/img/avatars/owner_3.png",
     details: `Neque aut veniam consectetur magnam libero, natus eius numquam
               reprehenderit hic at, excepturi repudiandae magni optio odio
               doloribus? Facilisi lobortisal morbi fringilla urna amet sed
@@ -624,12 +625,14 @@ export const bids = [
   },
   {
     id: 47,
-    title: "Lazyone Panda",
+    title: "Battalion",
     imageSrc: "/img/products/ai-films/ffffffffff.png",
     alt: "item 2",
     currentBid: "0.001 ETH",
     totalLikes: 75,
     ethAmount: "2 ETH",
+    creatorAvatar: "/img/avatars/creator_2.png",
+    ownerAvatar: "/img/avatars/owner_5.png",
     details: `Neque aut veniam consectetur magnam libero, natus eius numquam
               reprehenderit hic at, excepturi repudiandae magni optio odio
               doloribus? Facilisi lobortisal morbi fringilla urna amet sed
@@ -637,12 +640,14 @@ export const bids = [
   },
   {
     id: 48,
-    title: "Splendid Girl",
+    title: "Street fighter",
     imageSrc: "/img/products/ai-films/Street fighter.png",
     alt: "item 6",
     currentBid: "4.7 ETH",
     totalLikes: 253,
     ethAmount: "5.1 ETH",
+    creatorAvatar: "/img/avatars/creator_3.png",
+    ownerAvatar: "/img/avatars/owner_4.png",
     details: `Neque aut veniam consectetur magnam libero, natus eius numquam
               reprehenderit hic at, excepturi repudiandae magni optio odio
               doloribus? Facilisi lobortisal morbi fringilla urna amet sed
@@ -650,12 +655,14 @@ export const bids = [
   },
   {
     id: 49,
-    title: "Amazing NFT art",
+    title: "Pirates",
     imageSrc: "/img/products/ai-films/Pirates.png",
     alt: "item 4",
     currentBid: "1.2 ETH",
     totalLikes: 324,
     ethAmount: "7 ETH",
+    creatorAvatar: "/img/avatars/creator_4.png",
+    ownerAvatar: "/img/avatars/owner_9.png",
     details: `Neque aut veniam consectetur magnam libero, natus eius numquam
               reprehenderit hic at, excepturi repudiandae magni optio odio
               doloribus? Facilisi lobortisal morbi fringilla urna amet sed
@@ -663,12 +670,14 @@ export const bids = [
   },
   {
     id: 50,
-    title: "Portrait Gallery",
+    title: "Shadow",
     imageSrc: "/img/products/ai-films/Shadow.png",
     alt: "item 3",
     currentBid: "0.05 ETH",
     totalLikes: 54,
     ethAmount: "0.7 ETH",
+    creatorAvatar: "/img/avatars/creator_6.png",
+    ownerAvatar: "/img/avatars/owner_10.png",
     details: `Neque aut veniam consectetur magnam libero, natus eius numquam
               reprehenderit hic at, excepturi repudiandae magni optio odio
               doloribus? Facilisi lobortisal morbi fringilla urna amet sed
@@ -676,12 +685,14 @@ export const bids = [
   },
   {
     id: 51,
-    title: "Flourishing Cat #180",
+    title: "Street fighter",
     imageSrc: "/img/products/ai-films/Street fighter.png",
     alt: "item 5",
     currentBid: "0.25 ETH",
     totalLikes: 125,
     ethAmount: "3 ETH",
+    creatorAvatar: "/img/avatars/creator_8.png",
+    ownerAvatar: "/img/avatars/owner_11.png",
     details: `Neque aut veniam consectetur magnam libero, natus eius numquam
               reprehenderit hic at, excepturi repudiandae magni optio odio
               doloribus? Facilisi lobortisal morbi fringilla urna amet sed

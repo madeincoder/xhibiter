@@ -48,7 +48,11 @@ export default function ItemDetails({ id }) {
                   <Image
                     width={787}
                     height={984}
-                    src="/img/products/item_single_full.jpg"
+                    src={
+                      item.imageSrc
+                        ? item.imageSrc
+                        : "/img/products/item_single.jpg"
+                    }
                     alt="item"
                   />
                 </div>
@@ -233,7 +237,7 @@ export default function ItemDetails({ id }) {
                       <Image
                         width={48}
                         height={48}
-                        src="/img/avatars/avatar_7.jpg"
+                        src={item.creatorAvatar}
                         alt="avatar 7"
                         className="rounded-2lg"
                         loading="lazy"
@@ -271,7 +275,7 @@ export default function ItemDetails({ id }) {
                       <Image
                         width={48}
                         height={48}
-                        src="/img/avatars/avatar_1.jpg"
+                        src={item.ownerAvatar}
                         alt="avatar 1"
                         className="rounded-2lg"
                         loading="lazy"
@@ -326,7 +330,7 @@ export default function ItemDetails({ id }) {
                           <Image
                             width={48}
                             height={48}
-                            src="/img/avatars/avatar_4.jpg"
+                            src="/img/avatars/avatar_08.png"
                             alt="avatar"
                             className="rounded-2lg"
                             loading="lazy"
