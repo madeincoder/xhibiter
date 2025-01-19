@@ -225,7 +225,7 @@ export default function ItemDetails({ id }) {
 
               <p className="mb-10 dark:text-jacarta-300">
                 {item.details
-                  ? `${item.title} - ${item.details}`
+                  ? `${item.details}`
                   : "CryptoGuysNFT"}
               </p>
 

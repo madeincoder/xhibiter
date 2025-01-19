@@ -69,10 +69,8 @@ export const items2 = [
     creator: "Sussygirl",
     owner: "Sussygirl",
     bidCount: "2/8",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `Dans un royaume médiéval en guerre, un jeune chevalier nommé Alistair part en quête pour retrouver un artefact magique capable de sauver sa terre des ténèbres grandissantes. Accompagné de sa fidèle épée et d’un vieux magicien sage, il devra affronter des créatures mythologiques, des épreuves magiques et la redoutable horde des dragons noirs, protecteurs d’un pouvoir ancien. Alors qu’il se lie d’amitié avec un dragon légendaire, il apprend que le destin de son royaume est lié à celui des créatures qu’il doit combattre. Une aventure chevaleresque où la loyauté, la magie et la bravoure s’unissent pour affronter un ennemi bien plus ancien et redoutable que tout ce que le monde a connu.
+`,
     NFSW: true,
     LazyMinted: true,
   },
@@ -88,10 +86,7 @@ export const items2 = [
     creator: "Sussygirl",
     owner: "Sussygirl",
     bidCount: "1/7",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `Une coalition secrète formée par les plus grandes puissances économiques mondiales décide de créer une escouade de “désespérés” : anciens déserteurs, condamnés à mort, prisonniers de guerre et espions. Leur mission ? Effectuer une opération suicidaire pour sauver la planète d’une menace invisible, grandissante et indétectable. Liés par un destin commun, ces marginaux seront-ils capables de surmonter leur passé pour affronter un ennemi qu’ils ne comprennent pas ? Dans un monde au bord du gouffre, seuls les plus brisés peuvent espérer être les héros.`,
     NFSW: true,
     LazyMinted: true,
   },
@@ -107,10 +102,7 @@ export const items2 = [
     creator: "Sussygirl",
     owner: "Sussygirl",
     bidCount: "1/3",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `Dans un royaume magique où les elfes, les dragons et d’autres créatures fantastiques cohabitent, la guerre fait rage entre les forces du bien et du mal. Les elfes, gardiens des forêts anciennes, se battent contre une armée de créatures corrompues, dirigées par un seigneur des ténèbres. Alors que les combats dévastent le pays, deux jeunes héros elfes, l’un défenseur de la lumière et l’autre séduits par les promesses des ténèbres, se retrouvent liés par un amour interdit. Leurs destins s’entrelacent, et dans ce monde déchiré par la guerre, leur union pourrait être la clé pour sauver ou détruire leur monde. Une épopée de magie, de guerre et de passion, où le pouvoir de l’amour pourrait être la dernière chance de rétablir l’équilibre.`,
     varified: true,
     NFSW: true,
   },
@@ -126,10 +118,7 @@ export const items2 = [
     creator: "Sussygirl",
     owner: "Sussygirl",
     bidCount: "2/3",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `Au cœur du désert infini, un Touareg mystérieux, sage et mystique, parcourt les dunes, tissant des récits fascinants qui semblent prendre vie dès qu’il les prononce. Cet homme, connu sous le nom d’Amanar, est un maître des mots dont les histoires d’héros, de méchants, de quêtes épiques et de mystères insondables deviennent réalité à mesure qu’il les raconte. Les voyageurs égarés viennent de loin pour l’écouter, mais chaque histoire vécue dans le désert laisse une empreinte sur ceux qui l’entendent. Entre légendes ancestrales et aventures inattendues, les récits d’Amanar façonnent non seulement le destin des autres, mais aussi le sien. Une épopée mystique, où le pouvoir des contes transforme la réalité, et où chaque mot prononcé par le sage plonge les âmes dans des aventures aussi infinies que le désert lui-même.`,
     varified: true,
   },
   {
@@ -185,10 +174,8 @@ export const items2 = [
     creator: "Sussygirl",
     owner: "Sussygirl",
     bidCount: "1/1",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `Et si toute la Seconde Guerre mondiale n’avait été qu’un cauchemar ? Un film étrange où rêve et réalité se mêlent, et où les morts côtoient les vivants. Dans cet univers déformé, un survivant hanté par ses souvenirs vit une réalité parallèle, où le passé, le présent et l’avenir se confondent. Entre les délires d’un Führer totalement fou et des visions prémonitoires, il se questionne : est-ce une mémoire traumatique ou une prémonition qui façonne ce monde dévasté ? Une plongée psychologique dans l’une des périodes les plus sombres de l’humanité, avec une esthétique visuelle unique et une atmosphère de pure folie.
+`,
     varified: true,
     NFSW: true,
     LazyMinted: true,
