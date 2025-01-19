@@ -130,7 +130,7 @@ export const collections3 = [
   },
   {
     id: 18,
-    name: "Orange Black Bold",
+    name: "Them",
     category: "Collectibles",
     images: [
       "/img/collections/films/5.png",

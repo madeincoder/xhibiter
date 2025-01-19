@@ -52,7 +52,7 @@ export default function Hero() {
 
           <div className="col-span-6 xl:col-span-8">
             <div className="relative text-center md:pl-8 rtl:md:pr-8 !rtl:md:pl-0 md:text-right rtl:md:text-left">
-              <svg
+              {/* <svg
                 viewBox="0 0 200 200"
                 xmlns="http://www.w3.org/2000/svg"
                 className="mt-8 inline-block w-72 rotate-[8deg] sm:w-full lg:w-[24rem] xl:w-[35rem] "
@@ -79,15 +79,24 @@ export default function Hero() {
                     clipPath="url(#clipping)"
                   />
                 </g>
-              </svg>
-
-              <Image
-                width={740}
-                height={602}
-                src="/img/hero/3D_elements.png"
-                alt="image"
-                className="absolute top-0 animate-fly md:-right-[10%] rtl:md:right-[10%]"
-              />
+              </svg> */}
+              <div className="relative rounded-3xl">
+                <video
+                  src="/img/hero/video/hero-video.mp4"
+                  autoPlay
+                  loop
+                  muted
+                  className="relative mt-0 inline-block w-full lg:w-[24rem] xl:w-[36rem]"
+                  clipPath="url(#clipping)"
+                ></video>
+              </div>
+              {/* <Image
+                  width={740}
+                  height={602}
+                  src="/img/hero/3D_elements.png"
+                  alt="image"
+                  className="absolute top-0 animate-fly md:-right-[10%] rtl:md:right-[10%]"
+                /> */}
             </div>
           </div>
         </div>

@@ -125,7 +125,7 @@ export const items2 = [
     id: 10,
     imageSrc:
       "/img/products/ai-films/Orange Black Bold Horror Movie Poster.png",
-    title: "Orange Black Bold",
+    title: "Them",
     likes: 32,
     category: "Photography",
     creatorAvatar: "/img/avatars/creator_3.png",
@@ -134,10 +134,14 @@ export const items2 = [
     creator: "Sussygirl",
     owner: "Sussygirl",
     bidCount: "1/1",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `Après s’être réveillée seule sur Terre, une jeune femme découvre que la civilisation a disparu, mais 
+    que tout reste figé comme avant. D’abord paralysée par la solitude, elle erre dans les rues, 
+    cherchant des réponses. Peu à peu, elle prend conscience qu’elle n’est pas seule : des créatures 
+    étranges, métamorphes et mystérieuses, apparaissent dans son monde, ni menaçantes ni 
+    rassurantes. En explorant la maison de sa mère, une brillante scientifique, elle découvre un ancien 
+    livre caché, révélant des secrets qui pourraient expliquer la disparition de l’humanité. Un voyage 
+    initiatique, où l’isolement, la découverte et l’énigme se mêlent pour déchirer les voiles de la 
+    réalité.`,
     varified: true,
     NFSW: true,
     LazyMinted: true,
@@ -154,10 +158,16 @@ export const items2 = [
     creator: "Sussygirl",
     owner: "Sussygirl",
     bidCount: "1/1",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `
+    Sur les mers déchaînées d’un monde lointain, un équipage de pirates se lance dans une quête 
+    pour trouver un trésor légendaire, mais leur aventure prend une tournure sinistre lorsqu’ils 
+    rencontrent un navire fantôme, hanté par des âmes perdues. Alors qu’ils naviguent sur des eaux 
+    troublées, le capitaine du vaisseau, un homme au passé sombre, doit affronter des spectres 
+    vengeurs et des mystères anciens qui menacent de les engloutir. Chaque membre de l’équipage 
+    porte ses propres secrets, et plus ils s’enfoncent dans l’inconnu, plus ils se rendent compte que 
+    le véritable danger vient peut-être de l’intérieur... Une aventure sombre et palpitante, où 
+    l’océan cache bien plus que des trésors : il abrite des ombres du passé prêtes à réclamer 
+    leur dû`,
     varified: true,
     NFSW: true,
   },
@@ -194,10 +204,14 @@ export const items2 = [
     creator: "Sussygirl",
     owner: "Sussygirl",
     bidCount: "1/1",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `Dans ce remake explosif de Street Fighter, la série culte prend vie avec un mélange inédit 
+    d’images de synthèse et de live action. Ryu, Ken, Chun-Li, et d’autres combattants légendaires 
+    s’affrontent dans un tournoi mondial où la gloire, la justice, et l’honneur sont en jeu. Mais derrière 
+    chaque combat se cache un complot machiavélique orchestré par le redoutable M. Bison. Dans 
+    cette version moderne, l’humour et les moments d’action intense se mêlent à des séquences de 
+    combats d’une précision époustouflante. Un spectacle visuel inédit, où la nostalgie rencontre 
+    l’innovation, et où chaque coup de poing et chaque mouvement sont plus épiques que 
+    jamais.`,
     varified: true,
     NFSW: true,
   },
@@ -605,10 +619,7 @@ export const bids = [
     ethAmount: "1.55 ETH",
     creatorAvatar: "/img/avatars/creator_1.png",
     ownerAvatar: "/img/avatars/owner_3.png",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `Dans un royaume médiéval en guerre, un jeune chevalier nommé Alistair part en quête pour retrouver un artefact magique capable de sauver sa terre des ténèbres grandissantes. Accompagné de sa fidèle épée et d’un vieux magicien sage, il devra affronter des créatures mythologiques, des épreuves magiques et la redoutable horde des dragons noirs, protecteurs d’un pouvoir ancien. Alors qu’il se lie d’amitié avec un dragon légendaire, il apprend que le destin de son royaume est lié à celui des créatures qu’il doit combattre. Une aventure chevaleresque où la loyauté, la magie et la bravoure s’unissent pour affronter un ennemi bien plus ancien et redoutable que tout ce que le monde a connu.`,
   },
   {
     id: 47,
@@ -620,10 +631,7 @@ export const bids = [
     ethAmount: "2 ETH",
     creatorAvatar: "/img/avatars/creator_2.png",
     ownerAvatar: "/img/avatars/owner_5.png",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `Une coalition secrète formée par les plus grandes puissances économiques mondiales décide de créer une escouade de “désespérés” : anciens déserteurs, condamnés à mort, prisonniers de guerre et espions. Leur mission ? Effectuer une opération suicidaire pour sauver la planète d’une menace invisible, grandissante et indétectable. Liés par un destin commun, ces marginaux seront-ils capables de surmonter leur passé pour affronter un ennemi qu’ils ne comprennent pas ? Dans un monde au bord du gouffre, seuls les plus brisés peuvent espérer être les héros.`,
   },
   {
     id: 48,
@@ -635,10 +643,14 @@ export const bids = [
     ethAmount: "5.1 ETH",
     creatorAvatar: "/img/avatars/creator_3.png",
     ownerAvatar: "/img/avatars/owner_4.png",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `Dans ce remake explosif de Street Fighter, la série culte prend vie avec un mélange inédit 
+    d’images de synthèse et de live action. Ryu, Ken, Chun-Li, et d’autres combattants légendaires 
+    s’affrontent dans un tournoi mondial où la gloire, la justice, et l’honneur sont en jeu. Mais derrière 
+    chaque combat se cache un complot machiavélique orchestré par le redoutable M. Bison. Dans 
+    cette version moderne, l’humour et les moments d’action intense se mêlent à des séquences de 
+    combats d’une précision époustouflante. Un spectacle visuel inédit, où la nostalgie rencontre 
+    l’innovation, et où chaque coup de poing et chaque mouvement sont plus épiques que 
+    jamais.`,
   },
   {
     id: 49,
@@ -650,10 +662,15 @@ export const bids = [
     ethAmount: "7 ETH",
     creatorAvatar: "/img/avatars/creator_4.png",
     ownerAvatar: "/img/avatars/owner_9.png",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `Sur les mers déchaînées d’un monde lointain, un équipage de pirates se lance dans une quête 
+    pour trouver un trésor légendaire, mais leur aventure prend une tournure sinistre lorsqu’ils 
+    rencontrent un navire fantôme, hanté par des âmes perdues. Alors qu’ils naviguent sur des eaux 
+    troublées, le capitaine du vaisseau, un homme au passé sombre, doit affronter des spectres 
+    vengeurs et des mystères anciens qui menacent de les engloutir. Chaque membre de l’équipage 
+    porte ses propres secrets, et plus ils s’enfoncent dans l’inconnu, plus ils se rendent compte que 
+    le véritable danger vient peut-être de l’intérieur... Une aventure sombre et palpitante, où 
+    l’océan cache bien plus que des trésors : il abrite des ombres du passé prêtes à réclamer 
+    leur dû`,
   },
   {
     id: 50,
@@ -665,25 +682,27 @@ export const bids = [
     ethAmount: "0.7 ETH",
     creatorAvatar: "/img/avatars/creator_6.png",
     ownerAvatar: "/img/avatars/owner_10.png",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `Et si toute la Seconde Guerre mondiale n’avait été qu’un cauchemar ? Un film étrange où rêve et réalité se mêlent, et où les morts côtoient les vivants. Dans cet univers déformé, un survivant hanté par ses souvenirs vit une réalité parallèle, où le passé, le présent et l’avenir se confondent. Entre les délires d’un Führer totalement fou et des visions prémonitoires, il se questionne : est-ce une mémoire traumatique ou une prémonition qui façonne ce monde dévasté ? Une plongée psychologique dans l’une des périodes les plus sombres de l’humanité, avec une esthétique visuelle unique et une atmosphère de pure folie.`,
   },
   {
     id: 51,
-    title: "Street fighter",
-    imageSrc: "/img/products/ai-films/Street fighter.png",
+    title: "Them",
+    imageSrc:
+      "/img/products/ai-films/Orange Black Bold Horror Movie Poster.png",
     alt: "item 5",
     currentBid: "0.25 ETH",
     totalLikes: 125,
     ethAmount: "3 ETH",
     creatorAvatar: "/img/avatars/creator_8.png",
     ownerAvatar: "/img/avatars/owner_11.png",
-    details: `Neque aut veniam consectetur magnam libero, natus eius numquam
-              reprehenderit hic at, excepturi repudiandae magni optio odio
-              doloribus? Facilisi lobortisal morbi fringilla urna amet sed
-              ipsum.`,
+    details: `Après s’être réveillée seule sur Terre, une jeune femme découvre que la civilisation a disparu, mais 
+    que tout reste figé comme avant. D’abord paralysée par la solitude, elle erre dans les rues, 
+    cherchant des réponses. Peu à peu, elle prend conscience qu’elle n’est pas seule : des créatures 
+    étranges, métamorphes et mystérieuses, apparaissent dans son monde, ni menaçantes ni 
+    rassurantes. En explorant la maison de sa mère, une brillante scientifique, elle découvre un ancien 
+    livre caché, révélant des secrets qui pourraient expliquer la disparition de l’humanité. Un voyage 
+    initiatique, où l’isolement, la découverte et l’énigme se mêlent pour déchirer les voiles de la 
+    réalité.`,
   },
 ];
 
