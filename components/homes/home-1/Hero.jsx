@@ -24,9 +24,9 @@ export default function Hero() {
         />
       </picture>
 
-      <div className="container h-full">
+      <div className="ml-auto mr-auto max-w-[91rem] h-full px-10">
         <div className="grid h-full items-center gap-4 md:grid-cols-12">
-          <div className="col-span-6 flex h-full flex-col items-center justify-center py-10 md:items-start md:py-20 xl:col-span-4">
+          <div className="col-span-6 flex h-full flex-col items-center justify-center py-10 md:items-start md:py-20">
             <h1 className="mb-6 text-center font-display text-5xl text-jacarta-700 dark:text-white md:text-left lg:text-6xl xl:text-7xl">
               Buy, sell and collect Films.
             </h1>
@@ -50,7 +50,7 @@ export default function Hero() {
             </div>
           </div>
 
-          <div className="col-span-6 xl:col-span-8">
+          <div className="col-span-6">
             <div className="relative text-center md:pl-8 rtl:md:pr-8 !rtl:md:pl-0 md:text-right rtl:md:text-left">
               {/* <svg
                 viewBox="0 0 200 200"
@@ -86,7 +86,7 @@ export default function Hero() {
                   autoPlay
                   loop
                   muted
-                  className="relative mt-0 inline-block w-full lg:w-[24rem] xl:w-[36rem]"
+                  className="relative mt-0 inline-block w-full"
                   clipPath="url(#clipping)"
                 ></video>
               </div>

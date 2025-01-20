@@ -220,276 +220,375 @@ export const items2 = [
 export const useritems = [
   {
     id: 14,
-    imageSrc: "/img/products/item_5.jpg",
-    title: "Flourishing Cat #180",
+    imageSrc: "/img/products/ai-films/Love and Iron.png",
+    title: "Love and Iron",
     likes: 15,
     creatorAvatar: "/img/avatars/creator_1.png",
-    ownerAvatar: "/img/avatars/owner_1.png",
+    ownerAvatar: "/img/avatars/owner_3.png",
     price: "8.49 ETH",
     bidCount: "2/8",
     type: "onsale",
+    details: `Dans un royaume médiéval en guerre, un jeune chevalier nommé Alistair part en quête pour retrouver un artefact magique capable de sauver sa terre des ténèbres grandissantes. Accompagné de sa fidèle épée et d’un vieux magicien sage, il devra affronter des créatures mythologiques, des épreuves magiques et la redoutable horde des dragons noirs, protecteurs d’un pouvoir ancien. Alors qu’il se lie d’amitié avec un dragon légendaire, il apprend que le destin de son royaume est lié à celui des créatures qu’il doit combattre. Une aventure chevaleresque où la loyauté, la magie et la bravoure s’unissent pour affronter un ennemi bien plus ancien et redoutable que tout ce que le monde a connu.`,
   },
   {
     id: 15,
-    imageSrc: "/img/products/item_7.jpg",
-    title: "SwagFox#133",
+    imageSrc: "/img/products/ai-films/Children of Hurin.png",
+    title: "Children of Hurin",
     likes: 160,
     creatorAvatar: "/img/avatars/creator_3.png",
     ownerAvatar: "/img/avatars/owner_3.png",
     price: "0.078 ETH",
     bidCount: "1/3",
     type: "onsale",
+    details: `Une coalition secrète formée par les plus grandes puissances économiques mondiales décide de créer une escouade de “désespérés” : anciens déserteurs, condamnés à mort, prisonniers de guerre et espions. Leur mission ? Effectuer une opération suicidaire pour sauver la planète d’une menace invisible, grandissante et indétectable. Liés par un destin commun, ces marginaux seront-ils capables de surmonter leur passé pour affronter un ennemi qu’ils ne comprennent pas ? Dans un monde au bord du gouffre, seuls les plus brisés peuvent espérer être les héros.`,
   },
   {
     id: 16,
-    imageSrc: "/img/products/item_9.jpg",
-    title: "Jedidia#149",
+    imageSrc: "/img/products/ai-films/ffffffffff.png",
+    title: "Battalion",
     likes: 25,
     creatorAvatar: "/img/avatars/creator_6.png",
     ownerAvatar: "/img/avatars/owner_4.png",
     price: "0.16 ETH",
     bidCount: "1/1",
     type: "onsale",
+    details: `Une coalition secrète formée par les plus grandes puissances économiques mondiales décide de créer une escouade de “désespérés” : anciens déserteurs, condamnés à mort, prisonniers de guerre et espions. Leur mission ? Effectuer une opération suicidaire pour sauver la planète d’une menace invisible, grandissante et indétectable. Liés par un destin commun, ces marginaux seront-ils capables de surmonter leur passé pour affronter un ennemi qu’ils ne comprennent pas ? Dans un monde au bord du gouffre, seuls les plus brisés peuvent espérer être les héros.`,
   },
   {
     id: 17,
-    imageSrc: "/img/products/item_6.jpg",
-    title: "Splendid Girl",
+    imageSrc: "/img/products/ai-films/Men of the desert.png",
+    title: "Men of the desert",
     likes: 159,
     creatorAvatar: "/img/avatars/creator_4.png",
     ownerAvatar: "/img/avatars/owner_4.png",
     price: "10 ETH",
     bidCount: "2/3",
     type: "onsale",
+    details: `Au cœur du désert infini, un Touareg mystérieux, sage et mystique, parcourt les dunes, tissant des récits fascinants qui semblent prendre vie dès qu’il les prononce. Cet homme, connu sous le nom d’Amanar, est un maître des mots dont les histoires d’héros, de méchants, de quêtes épiques et de mystères insondables deviennent réalité à mesure qu’il les raconte. Les voyageurs égarés viennent de loin pour l’écouter, mais chaque histoire vécue dans le désert laisse une empreinte sur ceux qui l’entendent. Entre légendes ancestrales et aventures inattendues, les récits d’Amanar façonnent non seulement le destin des autres, mais aussi le sien. Une épopée mystique, où le pouvoir des contes transforme la réalité, et où chaque mot prononcé par le sage plonge les âmes dans des aventures aussi infinies que le désert lui-même.`,
   },
   {
     id: 18,
-    imageSrc: "/img/products/item_4.jpg",
-    title: "Amazing NFT art",
+    imageSrc:
+      "/img/products/ai-films/Orange Black Bold Horror Movie Poster.png",
+    title: "Them",
     likes: 188,
     creatorAvatar: "/img/avatars/creator_2.png",
-    ownerAvatar: "/img/avatars/owner_2.png",
+    ownerAvatar: "/img/avatars/owner_5.png",
     price: "5.9 ETH",
     bidCount: "1/7",
     type: "onsale",
+    details: `Après s’être réveillée seule sur Terre, une jeune femme découvre que la civilisation a disparu, mais 
+    que tout reste figé comme avant. D’abord paralysée par la solitude, elle erre dans les rues, 
+    cherchant des réponses. Peu à peu, elle prend conscience qu’elle n’est pas seule : des créatures 
+    étranges, métamorphes et mystérieuses, apparaissent dans son monde, ni menaçantes ni 
+    rassurantes. En explorant la maison de sa mère, une brillante scientifique, elle découvre un ancien 
+    livre caché, révélant des secrets qui pourraient expliquer la disparition de l’humanité. Un voyage 
+    initiatique, où l’isolement, la découverte et l’énigme se mêlent pour déchirer les voiles de la 
+    réalité.`,
   },
   {
     id: 19,
-    imageSrc: "/img/products/item_10.jpg",
-    alt: "item 10",
+    imageSrc: "/img/products/ai-films/Pirates.png",
+    title: "Pirates",
     likes: 55,
     creatorAvatar: "/img/avatars/creator_2.png",
-    ownerAvatar: "/img/avatars/owner_7.png",
+    ownerAvatar: "/img/avatars/owner_9.png",
     title: "Artof Eve",
     price: "0.13 ETH",
     bidCount: "1/1",
     type: "onsale",
+    details: `
+    Sur les mers déchaînées d’un monde lointain, un équipage de pirates se lance dans une quête 
+    pour trouver un trésor légendaire, mais leur aventure prend une tournure sinistre lorsqu’ils 
+    rencontrent un navire fantôme, hanté par des âmes perdues. Alors qu’ils naviguent sur des eaux 
+    troublées, le capitaine du vaisseau, un homme au passé sombre, doit affronter des spectres 
+    vengeurs et des mystères anciens qui menacent de les engloutir. Chaque membre de l’équipage 
+    porte ses propres secrets, et plus ils s’enfoncent dans l’inconnu, plus ils se rendent compte que 
+    le véritable danger vient peut-être de l’intérieur... Une aventure sombre et palpitante, où 
+    l’océan cache bien plus que des trésors : il abrite des ombres du passé prêtes à réclamer 
+    leur dû`,
   },
   {
     id: 20,
-    imageSrc: "/img/products/item_8.jpg",
-    title: "Monkeyme#155",
+    imageSrc: "/img/products/ai-films/Shadow.png",
+    title: "Shadow",
     likes: 32,
     creatorAvatar: "/img/avatars/creator_3.png",
     ownerAvatar: "/img/avatars/owner_5.png",
     price: "From 5 FLOW",
     bidCount: "1/1",
     type: "onsale",
+    details: `Et si toute la Seconde Guerre mondiale n’avait été qu’un cauchemar ? Un film étrange où rêve et réalité se mêlent, et où les morts côtoient les vivants. Dans cet univers déformé, un survivant hanté par ses souvenirs vit une réalité parallèle, où le passé, le présent et l’avenir se confondent. Entre les délires d’un Führer totalement fou et des visions prémonitoires, il se questionne : est-ce une mémoire traumatique ou une prémonition qui façonne ce monde dévasté ? Une plongée psychologique dans l’une des périodes les plus sombres de l’humanité, avec une esthétique visuelle unique et une atmosphère de pure folie.
+`,
   },
   {
     id: 21,
-    imageSrc: "/img/products/item_11.gif",
+    imageSrc: "/img/products/ai-films/Street fighter.png",
     alt: "item 11",
     likes: 70,
     creatorAvatar: "/img/avatars/creator_8.png",
     ownerAvatar: "/img/avatars/owner_5.png",
-    title: "Asuna #1649",
+    title: "Street fighter",
     currency: "ETH",
     price: "0.8 ETH",
     bidCount: "1/1",
     type: "onsale",
+    details: `Dans ce remake explosif de Street Fighter, la série culte prend vie avec un mélange inédit 
+    d’images de synthèse et de live action. Ryu, Ken, Chun-Li, et d’autres combattants légendaires 
+    s’affrontent dans un tournoi mondial où la gloire, la justice, et l’honneur sont en jeu. Mais derrière 
+    chaque combat se cache un complot machiavélique orchestré par le redoutable M. Bison. Dans 
+    cette version moderne, l’humour et les moments d’action intense se mêlent à des séquences de 
+    combats d’une précision époustouflante. Un spectacle visuel inédit, où la nostalgie rencontre 
+    l’innovation, et où chaque coup de poing et chaque mouvement sont plus épiques que 
+    jamais.`,
   },
   {
     id: 22,
-    imageSrc: "/img/products/item_5.jpg",
-    title: "Flourishing Cat #180",
+    imageSrc: "/img/products/ai-films/Love and Iron.png",
+    title: "Love and Iron",
     likes: 15,
     creatorAvatar: "/img/avatars/creator_1.png",
-    ownerAvatar: "/img/avatars/owner_1.png",
+    ownerAvatar: "/img/avatars/owner_3.png",
     price: "8.49 ETH",
     bidCount: "2/8",
     type: "owned",
+    details: `Dans un royaume médiéval en guerre, un jeune chevalier nommé Alistair part en quête pour retrouver un artefact magique capable de sauver sa terre des ténèbres grandissantes. Accompagné de sa fidèle épée et d’un vieux magicien sage, il devra affronter des créatures mythologiques, des épreuves magiques et la redoutable horde des dragons noirs, protecteurs d’un pouvoir ancien. Alors qu’il se lie d’amitié avec un dragon légendaire, il apprend que le destin de son royaume est lié à celui des créatures qu’il doit combattre. Une aventure chevaleresque où la loyauté, la magie et la bravoure s’unissent pour affronter un ennemi bien plus ancien et redoutable que tout ce que le monde a connu.`,
   },
   {
     id: 23,
-    imageSrc: "/img/products/item_11.gif",
-    alt: "item 11",
-    likes: 70,
-    creatorAvatar: "/img/avatars/creator_8.png",
-    ownerAvatar: "/img/avatars/owner_5.png",
-    title: "Asuna #1649",
-    currency: "ETH",
-    price: "0.8 ETH",
-    bidCount: "1/1",
+    imageSrc: "/img/products/ai-films/Children of Hurin.png",
+    title: "Children of Hurin",
+    likes: 160,
+    creatorAvatar: "/img/avatars/creator_3.png",
+    ownerAvatar: "/img/avatars/owner_3.png",
+    price: "0.078 ETH",
+    bidCount: "1/3",
     type: "owned",
+    details: `Une coalition secrète formée par les plus grandes puissances économiques mondiales décide de créer une escouade de “désespérés” : anciens déserteurs, condamnés à mort, prisonniers de guerre et espions. Leur mission ? Effectuer une opération suicidaire pour sauver la planète d’une menace invisible, grandissante et indétectable. Liés par un destin commun, ces marginaux seront-ils capables de surmonter leur passé pour affronter un ennemi qu’ils ne comprennent pas ? Dans un monde au bord du gouffre, seuls les plus brisés peuvent espérer être les héros.`,
   },
   {
     id: 24,
-    imageSrc: "/img/products/item_6.jpg",
-    title: "Splendid Girl",
-    likes: 159,
-    creatorAvatar: "/img/avatars/creator_4.png",
+    imageSrc: "/img/products/ai-films/ffffffffff.png",
+    title: "Battalion",
+    likes: 25,
+    creatorAvatar: "/img/avatars/creator_6.png",
     ownerAvatar: "/img/avatars/owner_4.png",
-    price: "10 ETH",
-    bidCount: "2/3",
+    price: "0.16 ETH",
+    bidCount: "1/1",
     type: "owned",
+    details: `Une coalition secrète formée par les plus grandes puissances économiques mondiales décide de créer une escouade de “désespérés” : anciens déserteurs, condamnés à mort, prisonniers de guerre et espions. Leur mission ? Effectuer une opération suicidaire pour sauver la planète d’une menace invisible, grandissante et indétectable. Liés par un destin commun, ces marginaux seront-ils capables de surmonter leur passé pour affronter un ennemi qu’ils ne comprennent pas ? Dans un monde au bord du gouffre, seuls les plus brisés peuvent espérer être les héros.`,
   },
   {
     id: 25,
-    imageSrc: "/img/products/item_4.jpg",
-    title: "Amazing NFT art",
-    likes: 188,
-    creatorAvatar: "/img/avatars/creator_2.png",
-    ownerAvatar: "/img/avatars/owner_2.png",
-    price: "5.9 ETH",
-    bidCount: "1/7",
-    type: "owned",
-  },
-  {
-    id: 26,
-    imageSrc: "/img/products/item_9.jpg",
-    title: "Jedidia#149",
-    likes: 25,
-    creatorAvatar: "/img/avatars/creator_6.png",
-    ownerAvatar: "/img/avatars/owner_4.png",
-    price: "0.16 ETH",
-    bidCount: "1/1",
-    type: "owned",
-  },
-  {
-    id: 27,
-    imageSrc: "/img/products/item_7.jpg",
-    title: "SwagFox#133",
-    likes: 160,
-    creatorAvatar: "/img/avatars/creator_3.png",
-    ownerAvatar: "/img/avatars/owner_3.png",
-    price: "0.078 ETH",
-    bidCount: "1/3",
-    type: "owned",
-  },
-  {
-    id: 28,
-    imageSrc: "/img/products/item_8.jpg",
-    title: "Monkeyme#155",
-    likes: 32,
-    creatorAvatar: "/img/avatars/creator_3.png",
-    ownerAvatar: "/img/avatars/owner_5.png",
-    price: "From 5 FLOW",
-    bidCount: "1/1",
-    type: "owned",
-  },
-  {
-    id: 29,
-    imageSrc: "/img/products/item_10.jpg",
-    alt: "item 10",
-    likes: 55,
-    creatorAvatar: "/img/avatars/creator_2.png",
-    ownerAvatar: "/img/avatars/owner_7.png",
-    title: "Artof Eve",
-    price: "0.13 ETH",
-    bidCount: "1/1",
-    type: "owned",
-  },
-  {
-    id: 30,
-    imageSrc: "/img/products/item_10.jpg",
-    alt: "item 10",
-    likes: 55,
-    creatorAvatar: "/img/avatars/creator_2.png",
-    ownerAvatar: "/img/avatars/owner_7.png",
-    title: "Artof Eve",
-    price: "0.13 ETH",
-    bidCount: "1/1",
-    type: "created",
-  },
-  {
-    id: 31,
-    imageSrc: "/img/products/item_8.jpg",
-    title: "Monkeyme#155",
-    likes: 32,
-    creatorAvatar: "/img/avatars/creator_3.png",
-    ownerAvatar: "/img/avatars/owner_5.png",
-    price: "From 5 FLOW",
-    bidCount: "1/1",
-    type: "created",
-  },
-  {
-    id: 32,
-    imageSrc: "/img/products/item_6.jpg",
-    title: "Splendid Girl",
+    imageSrc: "/img/products/ai-films/Men of the desert.png",
+    title: "Men of the desert",
     likes: 159,
     creatorAvatar: "/img/avatars/creator_4.png",
     ownerAvatar: "/img/avatars/owner_4.png",
     price: "10 ETH",
     bidCount: "2/3",
-    type: "created",
+    type: "owned",
+    details: `Au cœur du désert infini, un Touareg mystérieux, sage et mystique, parcourt les dunes, tissant des récits fascinants qui semblent prendre vie dès qu’il les prononce. Cet homme, connu sous le nom d’Amanar, est un maître des mots dont les histoires d’héros, de méchants, de quêtes épiques et de mystères insondables deviennent réalité à mesure qu’il les raconte. Les voyageurs égarés viennent de loin pour l’écouter, mais chaque histoire vécue dans le désert laisse une empreinte sur ceux qui l’entendent. Entre légendes ancestrales et aventures inattendues, les récits d’Amanar façonnent non seulement le destin des autres, mais aussi le sien. Une épopée mystique, où le pouvoir des contes transforme la réalité, et où chaque mot prononcé par le sage plonge les âmes dans des aventures aussi infinies que le désert lui-même.`,
   },
   {
-    id: 33,
-    imageSrc: "/img/products/item_9.jpg",
-    title: "Jedidia#149",
-    likes: 25,
-    creatorAvatar: "/img/avatars/creator_6.png",
-    ownerAvatar: "/img/avatars/owner_4.png",
-    price: "0.16 ETH",
+    id: 26,
+    imageSrc:
+      "/img/products/ai-films/Orange Black Bold Horror Movie Poster.png",
+    title: "Them",
+    likes: 188,
+    creatorAvatar: "/img/avatars/creator_2.png",
+    ownerAvatar: "/img/avatars/owner_5.png",
+    price: "5.9 ETH",
+    bidCount: "1/7",
+    type: "owned",
+    details: `Après s’être réveillée seule sur Terre, une jeune femme découvre que la civilisation a disparu, mais 
+    que tout reste figé comme avant. D’abord paralysée par la solitude, elle erre dans les rues, 
+    cherchant des réponses. Peu à peu, elle prend conscience qu’elle n’est pas seule : des créatures 
+    étranges, métamorphes et mystérieuses, apparaissent dans son monde, ni menaçantes ni 
+    rassurantes. En explorant la maison de sa mère, une brillante scientifique, elle découvre un ancien 
+    livre caché, révélant des secrets qui pourraient expliquer la disparition de l’humanité. Un voyage 
+    initiatique, où l’isolement, la découverte et l’énigme se mêlent pour déchirer les voiles de la 
+    réalité.`,
+  },
+  {
+    id: 27,
+    imageSrc: "/img/products/ai-films/Pirates.png",
+    title: "Pirates",
+    likes: 55,
+    creatorAvatar: "/img/avatars/creator_2.png",
+    ownerAvatar: "/img/avatars/owner_9.png",
+    title: "Artof Eve",
+    price: "0.13 ETH",
     bidCount: "1/1",
-    type: "created",
+    type: "owned",
+    details: `
+    Sur les mers déchaînées d’un monde lointain, un équipage de pirates se lance dans une quête 
+    pour trouver un trésor légendaire, mais leur aventure prend une tournure sinistre lorsqu’ils 
+    rencontrent un navire fantôme, hanté par des âmes perdues. Alors qu’ils naviguent sur des eaux 
+    troublées, le capitaine du vaisseau, un homme au passé sombre, doit affronter des spectres 
+    vengeurs et des mystères anciens qui menacent de les engloutir. Chaque membre de l’équipage 
+    porte ses propres secrets, et plus ils s’enfoncent dans l’inconnu, plus ils se rendent compte que 
+    le véritable danger vient peut-être de l’intérieur... Une aventure sombre et palpitante, où 
+    l’océan cache bien plus que des trésors : il abrite des ombres du passé prêtes à réclamer 
+    leur dû`,
   },
   {
-    id: 34,
-    imageSrc: "/img/products/item_11.gif",
+    id: 28,
+    imageSrc: "/img/products/ai-films/Shadow.png",
+    title: "Shadow",
+    likes: 32,
+    creatorAvatar: "/img/avatars/creator_3.png",
+    ownerAvatar: "/img/avatars/owner_5.png",
+    price: "From 5 FLOW",
+    bidCount: "1/1",
+    type: "owned",
+    details: `Et si toute la Seconde Guerre mondiale n’avait été qu’un cauchemar ? Un film étrange où rêve et réalité se mêlent, et où les morts côtoient les vivants. Dans cet univers déformé, un survivant hanté par ses souvenirs vit une réalité parallèle, où le passé, le présent et l’avenir se confondent. Entre les délires d’un Führer totalement fou et des visions prémonitoires, il se questionne : est-ce une mémoire traumatique ou une prémonition qui façonne ce monde dévasté ? Une plongée psychologique dans l’une des périodes les plus sombres de l’humanité, avec une esthétique visuelle unique et une atmosphère de pure folie.
+`,
+  },
+  {
+    id: 29,
+    imageSrc: "/img/products/ai-films/Street fighter.png",
     alt: "item 11",
     likes: 70,
     creatorAvatar: "/img/avatars/creator_8.png",
     ownerAvatar: "/img/avatars/owner_5.png",
-    title: "Asuna #1649",
+    title: "Street fighter",
     currency: "ETH",
     price: "0.8 ETH",
     bidCount: "1/1",
-    type: "created",
+    type: "owned",
+    details: `Dans ce remake explosif de Street Fighter, la série culte prend vie avec un mélange inédit 
+    d’images de synthèse et de live action. Ryu, Ken, Chun-Li, et d’autres combattants légendaires 
+    s’affrontent dans un tournoi mondial où la gloire, la justice, et l’honneur sont en jeu. Mais derrière 
+    chaque combat se cache un complot machiavélique orchestré par le redoutable M. Bison. Dans 
+    cette version moderne, l’humour et les moments d’action intense se mêlent à des séquences de 
+    combats d’une précision époustouflante. Un spectacle visuel inédit, où la nostalgie rencontre 
+    l’innovation, et où chaque coup de poing et chaque mouvement sont plus épiques que 
+    jamais.`,
   },
   {
-    id: 35,
-    imageSrc: "/img/products/item_7.jpg",
-    title: "SwagFox#133",
+    id: 30,
+    imageSrc: "/img/products/ai-films/Love and Iron.png",
+    title: "Love and Iron",
+    likes: 15,
+    creatorAvatar: "/img/avatars/creator_1.png",
+    ownerAvatar: "/img/avatars/owner_3.png",
+    price: "8.49 ETH",
+    bidCount: "2/8",
+    type: "created",
+    details: `Dans un royaume médiéval en guerre, un jeune chevalier nommé Alistair part en quête pour retrouver un artefact magique capable de sauver sa terre des ténèbres grandissantes. Accompagné de sa fidèle épée et d’un vieux magicien sage, il devra affronter des créatures mythologiques, des épreuves magiques et la redoutable horde des dragons noirs, protecteurs d’un pouvoir ancien. Alors qu’il se lie d’amitié avec un dragon légendaire, il apprend que le destin de son royaume est lié à celui des créatures qu’il doit combattre. Une aventure chevaleresque où la loyauté, la magie et la bravoure s’unissent pour affronter un ennemi bien plus ancien et redoutable que tout ce que le monde a connu.`,
+  },
+  {
+    id: 31,
+    imageSrc: "/img/products/ai-films/Children of Hurin.png",
+    title: "Children of Hurin",
     likes: 160,
     creatorAvatar: "/img/avatars/creator_3.png",
     ownerAvatar: "/img/avatars/owner_3.png",
     price: "0.078 ETH",
     bidCount: "1/3",
     type: "created",
+    details: `Une coalition secrète formée par les plus grandes puissances économiques mondiales décide de créer une escouade de “désespérés” : anciens déserteurs, condamnés à mort, prisonniers de guerre et espions. Leur mission ? Effectuer une opération suicidaire pour sauver la planète d’une menace invisible, grandissante et indétectable. Liés par un destin commun, ces marginaux seront-ils capables de surmonter leur passé pour affronter un ennemi qu’ils ne comprennent pas ? Dans un monde au bord du gouffre, seuls les plus brisés peuvent espérer être les héros.`,
   },
   {
-    id: 36,
-    imageSrc: "/img/products/item_5.jpg",
-    title: "Flourishing Cat #180",
-    likes: 15,
-    creatorAvatar: "/img/avatars/creator_1.png",
-    ownerAvatar: "/img/avatars/owner_1.png",
-    price: "8.49 ETH",
-    bidCount: "2/8",
+    id: 32,
+    imageSrc: "/img/products/ai-films/ffffffffff.png",
+    title: "Battalion",
+    likes: 25,
+    creatorAvatar: "/img/avatars/creator_6.png",
+    ownerAvatar: "/img/avatars/owner_4.png",
+    price: "0.16 ETH",
+    bidCount: "1/1",
     type: "created",
+    details: `Une coalition secrète formée par les plus grandes puissances économiques mondiales décide de créer une escouade de “désespérés” : anciens déserteurs, condamnés à mort, prisonniers de guerre et espions. Leur mission ? Effectuer une opération suicidaire pour sauver la planète d’une menace invisible, grandissante et indétectable. Liés par un destin commun, ces marginaux seront-ils capables de surmonter leur passé pour affronter un ennemi qu’ils ne comprennent pas ? Dans un monde au bord du gouffre, seuls les plus brisés peuvent espérer être les héros.`,
   },
   {
-    id: 37,
-    imageSrc: "/img/products/item_4.jpg",
-    title: "Amazing NFT art",
+    id: 33,
+    imageSrc: "/img/products/ai-films/Men of the desert.png",
+    title: "Men of the desert",
+    likes: 159,
+    creatorAvatar: "/img/avatars/creator_4.png",
+    ownerAvatar: "/img/avatars/owner_4.png",
+    price: "10 ETH",
+    bidCount: "2/3",
+    type: "created",
+    details: `Au cœur du désert infini, un Touareg mystérieux, sage et mystique, parcourt les dunes, tissant des récits fascinants qui semblent prendre vie dès qu’il les prononce. Cet homme, connu sous le nom d’Amanar, est un maître des mots dont les histoires d’héros, de méchants, de quêtes épiques et de mystères insondables deviennent réalité à mesure qu’il les raconte. Les voyageurs égarés viennent de loin pour l’écouter, mais chaque histoire vécue dans le désert laisse une empreinte sur ceux qui l’entendent. Entre légendes ancestrales et aventures inattendues, les récits d’Amanar façonnent non seulement le destin des autres, mais aussi le sien. Une épopée mystique, où le pouvoir des contes transforme la réalité, et où chaque mot prononcé par le sage plonge les âmes dans des aventures aussi infinies que le désert lui-même.`,
+  },
+  {
+    id: 34,
+    imageSrc:
+      "/img/products/ai-films/Orange Black Bold Horror Movie Poster.png",
+    title: "Them",
     likes: 188,
     creatorAvatar: "/img/avatars/creator_2.png",
-    ownerAvatar: "/img/avatars/owner_2.png",
+    ownerAvatar: "/img/avatars/owner_5.png",
     price: "5.9 ETH",
     bidCount: "1/7",
     type: "created",
+    details: `Après s’être réveillée seule sur Terre, une jeune femme découvre que la civilisation a disparu, mais 
+    que tout reste figé comme avant. D’abord paralysée par la solitude, elle erre dans les rues, 
+    cherchant des réponses. Peu à peu, elle prend conscience qu’elle n’est pas seule : des créatures 
+    étranges, métamorphes et mystérieuses, apparaissent dans son monde, ni menaçantes ni 
+    rassurantes. En explorant la maison de sa mère, une brillante scientifique, elle découvre un ancien 
+    livre caché, révélant des secrets qui pourraient expliquer la disparition de l’humanité. Un voyage 
+    initiatique, où l’isolement, la découverte et l’énigme se mêlent pour déchirer les voiles de la 
+    réalité.`,
+  },
+  {
+    id: 35,
+    imageSrc: "/img/products/ai-films/Pirates.png",
+    title: "Pirates",
+    likes: 55,
+    creatorAvatar: "/img/avatars/creator_2.png",
+    ownerAvatar: "/img/avatars/owner_9.png",
+    title: "Artof Eve",
+    price: "0.13 ETH",
+    bidCount: "1/1",
+    type: "created",
+    details: `
+    Sur les mers déchaînées d’un monde lointain, un équipage de pirates se lance dans une quête 
+    pour trouver un trésor légendaire, mais leur aventure prend une tournure sinistre lorsqu’ils 
+    rencontrent un navire fantôme, hanté par des âmes perdues. Alors qu’ils naviguent sur des eaux 
+    troublées, le capitaine du vaisseau, un homme au passé sombre, doit affronter des spectres 
+    vengeurs et des mystères anciens qui menacent de les engloutir. Chaque membre de l’équipage 
+    porte ses propres secrets, et plus ils s’enfoncent dans l’inconnu, plus ils se rendent compte que 
+    le véritable danger vient peut-être de l’intérieur... Une aventure sombre et palpitante, où 
+    l’océan cache bien plus que des trésors : il abrite des ombres du passé prêtes à réclamer 
+    leur dû`,
+  },
+  {
+    id: 36,
+    imageSrc: "/img/products/ai-films/Shadow.png",
+    title: "Shadow",
+    likes: 32,
+    creatorAvatar: "/img/avatars/creator_3.png",
+    ownerAvatar: "/img/avatars/owner_5.png",
+    price: "From 5 FLOW",
+    bidCount: "1/1",
+    type: "created",
+    details: `Et si toute la Seconde Guerre mondiale n’avait été qu’un cauchemar ? Un film étrange où rêve et réalité se mêlent, et où les morts côtoient les vivants. Dans cet univers déformé, un survivant hanté par ses souvenirs vit une réalité parallèle, où le passé, le présent et l’avenir se confondent. Entre les délires d’un Führer totalement fou et des visions prémonitoires, il se questionne : est-ce une mémoire traumatique ou une prémonition qui façonne ce monde dévasté ? Une plongée psychologique dans l’une des périodes les plus sombres de l’humanité, avec une esthétique visuelle unique et une atmosphère de pure folie.
+`,
+  },
+  {
+    id: 37,
+    imageSrc: "/img/products/ai-films/Street fighter.png",
+    alt: "item 11",
+    likes: 70,
+    creatorAvatar: "/img/avatars/creator_8.png",
+    ownerAvatar: "/img/avatars/owner_5.png",
+    title: "Street fighter",
+    currency: "ETH",
+    price: "0.8 ETH",
+    bidCount: "1/1",
+    type: "created",
+    details: `Dans ce remake explosif de Street Fighter, la série culte prend vie avec un mélange inédit 
+    d’images de synthèse et de live action. Ryu, Ken, Chun-Li, et d’autres combattants légendaires 
+    s’affrontent dans un tournoi mondial où la gloire, la justice, et l’honneur sont en jeu. Mais derrière 
+    chaque combat se cache un complot machiavélique orchestré par le redoutable M. Bison. Dans 
+    cette version moderne, l’humour et les moments d’action intense se mêlent à des séquences de 
+    combats d’une précision époustouflante. Un spectacle visuel inédit, où la nostalgie rencontre 
+    l’innovation, et où chaque coup de poing et chaque mouvement sont plus épiques que 
+    jamais.`,
   },
 ];
 
