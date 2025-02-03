@@ -81,14 +81,23 @@ export default function Hero() {
                 </g>
               </svg> */}
               <div className="relative rounded-3xl">
-                <video
+                {/* <video
                   src="/img/hero/video/hero-video.mp4"
                   autoPlay
                   loop
                   muted
                   className="relative mt-0 inline-block w-full"
                   clipPath="url(#clipping)"
-                ></video>
+                ></video> */}
+                <iframe
+                  src="https://player.vimeo.com/video/1052989665?autoplay=1&loop=1&muted=1&background=1"
+                  width="100%"
+                  height="500"
+                  allow="autoplay; fullscreen; picture-in-picture"
+                  allowFullScreen
+                  loading="lazy"
+                  className="relative mt-0 inline-block w-full"
+                />
               </div>
               {/* <Image
                   width={740}
