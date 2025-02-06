@@ -3,7 +3,10 @@ import Header1 from "@/components/headers/Header1";
 import NotFound from "@/components/pages/404";
 
 export const metadata = {
-  title: "Not Found || Xhibiter | NFT Marketplace Nextjs Template",
+  title:
+    "Créez et financez votre film avec les NFT et la crypto ALI Marketplace",
+  description:
+    "Réalisez votre propre film grâce à la blockchain et aux NFT. Financement participatif via crypto et tokens, monétisation décentralisée et diffusion sur une marketplace innovante. Rejoignez la révolution du cinéma Web3 !",
 };
 export default function NotFoundPage() {
   return (

@@ -55,7 +55,7 @@ export default function Collections() {
   }, [activeCategory]);
 
   return (
-    <section className="relative py-24">
+    <section className="relative py-24" id="collections">
       <picture className="pointer-events-none absolute inset-0 -z-10 dark:hidden">
         <Image
           width={1920}
