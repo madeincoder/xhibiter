@@ -66,12 +66,12 @@ export default function Footer1() {
         </div>
         <div className="flex flex-col items-center justify-between space-y-2 py-8 sm:flex-row sm:space-y-0">
           <span className="text-sm dark:text-jacarta-400">
-            &copy; {new Date().getFullYear()} Xhibiter — Made by{" "}
+            &copy; {new Date().getFullYear()} Ali-marketplace — Made by{" "}
             <a
               href="https://themeforest.net/user/ib-themes/portfolio"
               className="hover:text-accent"
             >
-              ib-themes
+              Ali universe
             </a>
           </span>
           <ul className="flex flex-wrap space-x-4 text-sm dark:text-jacarta-400">
